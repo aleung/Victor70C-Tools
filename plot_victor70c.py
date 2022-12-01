@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import serial
 import serial.tools.list_ports
 import keyboard
